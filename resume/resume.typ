@@ -60,7 +60,7 @@
 #project_item(
   name: "Gitlytics",
   skills: "Python, Flask, React, PostgreSQL, Docker",
-  site: "github.com/ojas-chaturvedi/NLP-Gun-Legislation",
+  site: "github.com/",
   date: "June 2020 - Present",
   [Developed a full-stack web application using with Flask serving a REST API with React as the frontend],
   [Implemented GitHub OAuth to get data from user's repositories],
@@ -70,7 +70,7 @@
 #project_item(
   name: "Simple Paintball",
   skills: "Spigot API, Java, Maven, TravisCI, Git",
-  site: "github.com/ojas-chaturvedi/Digit-Recognizer",
+  site: "github.com/",
   date: "May 2018 - May 2020",
   [Developed a Minecraft server plugin to entertain kids during free time for a previous job],
   [Published plugin to websites gaining 2K+ downloads and an average 4.5/5-star review],
